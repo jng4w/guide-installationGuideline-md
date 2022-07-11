@@ -1,6 +1,6 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/108851604?v=4" width="100"></a></p>
+![jng4w](../img/jng4w.jpg)
 
-#Github initialization
+#Github
 
 ##Overall
 
