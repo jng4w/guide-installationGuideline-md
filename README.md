@@ -6,7 +6,7 @@
 ##Description
 
 This is the guideline for the ease to implement all the platforms listed below:
-* [Docker](./Docker/install-docker-additional-cmd.rtf)
+* [Docker](./Docker/README.md)
 * [Github](./Github/README.md)
 
 
