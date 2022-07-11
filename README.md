@@ -1,15 +1,17 @@
+
 ![jng4w](./img/jng4w.jpg)
 
 # Installation Guideline
 
-## Table of contents
-* [General info](##General-info)
+##Description
 
-
-##General-info
-<p>
-This is the guideline for the ease to implement a platform in the list below:
-</p>
+This is the guideline for the ease to implement all the platforms listed below:
+* [Docker](./Docker/install-docker-additional-cmd.rtf)
+* [Github](./Github/README.md)
 
 
 
+
+
+
+ 
