@@ -32,15 +32,17 @@ The default local branch name is "master", changing it to "main" for synchronizi
 </p>
 
 ###Initialize a repository
-<pre>
-<code>
-echo "# guide-installationGuideline-md" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/jng4w/guide-installationGuideline-md.git
+```
+git remote add origin <your github link> (e.g. https://github.com/jng4w/guide-installationGuideline-md.git)
+```
+
+If remote are added, try:
+
+```
+git remote set-url origin <your github link> (e.g. https://github.com/jng4w/guide-installationGuideline-md.git)
+```
+###Push to remote respository
+```
 git push -u origin main
-</code>
-</pre>
+```
 
